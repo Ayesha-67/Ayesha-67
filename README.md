@@ -9,7 +9,7 @@
 ---
 <div align="left">
   
-# About Me :
+# 🔍About Me :
 - I’m currently working on my github page : [Ayesha-67](https://github.com/Ayesha-67)
 - Looking for oppurtunities and collaborations in the field of Data Analytics📊
 
